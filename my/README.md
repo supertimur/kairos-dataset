@@ -1,5 +1,7 @@
 # Lab 1 submission — engagement prediction
 
+**Author:** Kravchenko Timur, group M3336
+
 Approach layered on top of the baseline (which stays untouched in `baseline.py`).
 
 ## Results on the official test split (17,623 posts, 824 authors)
